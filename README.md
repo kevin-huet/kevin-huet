@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">Mainly interested in web development but always curious and open to other technologies and different areas of development I have had the opportunity on multiple occasions to work on technologies such as PHP, Symfony, Java, or NodeJS in my professional career or in other personal projects.<br>My goal is to evolve, to progress while appreciating the technologies that I use every day</h3>
+<h3 align="center">Mainly interested in web development but always curious and open to other technologies and different areas of development <br>I have had the opportunity on multiple occasions to work on technologies such as PHP, Symfony, Java, or NodeJS in my professional career or in other personal projects.<br>My goal is to evolve, to progress while appreciating the technologies that I use every day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-huet&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-huet" /> </p>
 
